@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
+body{
+  background:#CCCCCC;
+  font-family: 'Indie Family', cursive, Arial;
+}
+
+h1{
+  color: red;
+}
+
+section{
+  background: #FFFFFF;
+  padding: 0px;
+}
+
+header {
+  background: #427fed;
+  text-align: center;
+}
+
+header a {
+   width: color white;
+   font-weight: bold;
+}
+
+.piee{
+  text-align: center;
+}
