@@ -23,9 +23,10 @@ header a {
    width: color white;
    font-weight: bold;
 }
-
-.piee{
-  text-align: center;
+/* Aligns navbar towards top and edge of page */
+html, body{
+    margin:0px;
+    padding:0px;
 }
 /* Navbar container */
 .navbar {
