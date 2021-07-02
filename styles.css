@@ -39,7 +39,7 @@ html, body{
 .navbar a {
   float: left;
   font-size: 16px;
-  color: white;
+  color: #8e8b8b;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -56,7 +56,7 @@ html, body{
   font-size: 16px;
   border: none;
   outline: none;
-  color: white;
+  color: #8e8b8b;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
@@ -65,7 +65,8 @@ html, body{
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  /* background-color: red; */
+  color: white
 }
 
 /* Dropdown content (hidden by default) */
